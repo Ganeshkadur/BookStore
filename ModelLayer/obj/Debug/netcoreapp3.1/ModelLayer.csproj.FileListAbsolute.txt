@@ -1,0 +1,9 @@
+C:\Users\Ganesh\source\repos\BookStore\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.deps.json
+C:\Users\Ganesh\source\repos\BookStore\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.dll
+C:\Users\Ganesh\source\repos\BookStore\ModelLayer\bin\Debug\netcoreapp3.1\ModelLayer.pdb
+C:\Users\Ganesh\source\repos\BookStore\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ganesh\source\repos\BookStore\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.AssemblyInfoInputs.cache
+C:\Users\Ganesh\source\repos\BookStore\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.AssemblyInfo.cs
+C:\Users\Ganesh\source\repos\BookStore\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ganesh\source\repos\BookStore\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.dll
+C:\Users\Ganesh\source\repos\BookStore\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.pdb

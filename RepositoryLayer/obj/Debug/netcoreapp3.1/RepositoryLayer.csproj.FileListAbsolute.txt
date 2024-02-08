@@ -14,3 +14,4 @@ C:\Users\Ganesh\source\repos\BookStore\RepositoryLayer\obj\Debug\netcoreapp3.1\R
 C:\Users\Ganesh\source\repos\BookStore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
 C:\Users\Ganesh\source\repos\BookStore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
 C:\Users\Ganesh\source\repos\BookStore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.genruntimeconfig.cache
+C:\Users\Ganesh\source\repos\BookStore\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.sourcelink.json

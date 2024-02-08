@@ -7,3 +7,4 @@ C:\Users\Ganesh\source\repos\BookStore\ModelLayer\obj\Debug\netcoreapp3.1\ModelL
 C:\Users\Ganesh\source\repos\BookStore\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.csproj.CoreCompileInputs.cache
 C:\Users\Ganesh\source\repos\BookStore\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.dll
 C:\Users\Ganesh\source\repos\BookStore\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.pdb
+C:\Users\Ganesh\source\repos\BookStore\ModelLayer\obj\Debug\netcoreapp3.1\ModelLayer.sourcelink.json

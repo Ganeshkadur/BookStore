@@ -64,3 +64,5 @@ C:\Users\Ganesh\source\repos\BookStore\BookStore\bin\Debug\netcoreapp3.1\Reposit
 C:\Users\Ganesh\source\repos\BookStore\BookStore\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
 C:\Users\Ganesh\source\repos\BookStore\BookStore\bin\Debug\netcoreapp3.1\ModelLayer.pdb
 C:\Users\Ganesh\source\repos\BookStore\BookStore\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\Ganesh\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.sourcelink.json
+C:\Users\Ganesh\source\repos\BookStore\BookStore\obj\Debug\netcoreapp3.1\BookStore.MvcApplicationPartsAssemblyInfo.cs
